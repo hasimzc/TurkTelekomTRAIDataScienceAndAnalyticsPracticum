@@ -1,0 +1,5 @@
+-- 1- SELECT rating FROM film
+-- GROUP BY rating;
+-- 2 SELECT replacement_cost,COUNT(replacement_cost) FROM film
+-- GROUP BY replacement_cost
+-- HAVING COUNT(replacement_cost) > 50
