@@ -1,0 +1,1 @@
+This repository includes my assigments of TurkTelekomTRAIDataScienceAndAnalyticsPracticum
